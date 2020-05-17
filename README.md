@@ -1,18 +1,31 @@
-<h1>Semaine Intensive - Kap Hardie</h1>
+# KAPHARDIE
 
-<h2>"Inventer un concept de vêtement personnalisable unique"</h2>
+ ___"Création d'un vêtement personnalisable"___
+ 
+ ![Otaku](src/assets/Gif/kaphardi.gif)
 
-Lien du site Netlify : https://kaphardie.netlify.com/
+## Membres :
+  - Bastien Paquier
+  - Quentin Trouvé
+  - Constance Pétillot
+  - Lucas Roche
+  - Nathan Stampfli
+  
+## Caractéristiques :
 
-Contributeurs :
+- Thème : 
+  - Création d'un casquette unique personnalisable aved des matières du mondes
+  
+- Support : 
+  - Desktop / Mobile
 
-<ul>
- <li>Bastien Paquier</li>
-  <li>Constance Pétillot</li>
-  <li>Lucas Roche</li>
-  <li>Nathan Stampfli</li>
-   <li>Quentin Trouvé</li>
-</ul>
+- Temps imparti : 
+  - 4 jours de conception
+  - 15 minutes de soutenance orale
+  
+- Cahier des charges :
+  - Une landing page, et une page produits
+  - Mobile First
 
-9 jours de conception
-15 minutes de soutenance orale
+## Page web 
+[kaphardie.netlify.com](https://kaphardie.netlify.app/)
