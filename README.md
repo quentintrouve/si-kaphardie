@@ -40,7 +40,7 @@ npm run dev
 ```
 
 Run the app in development mode.\
-Open [http://localhost:3000/](http://localhost:3000/) to view it in the browser.
+Open [http://localhost:5500/](http://localhost:5500/src/index.html) to view it in the browser.
 
 ### Production Mode
 
@@ -48,8 +48,7 @@ Open [http://localhost:3000/](http://localhost:3000/) to view it in the browser.
 npm run build
 ```
 
-Builds the app for production to the build folder.\
-The build is minified and the filenames include the hashes.\
+Builds the app for production to the dist folder.\
 Your app is ready to be deployed.
 
 ## 🔨 Built with
