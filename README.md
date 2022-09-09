@@ -57,7 +57,7 @@ Your app is ready to be deployed.
 
 ## 🎨 Styling with
 
-Sass - [documentation](https://sass-lang.com/documentation/)\
+Sass - [documentation](https://sass-lang.com/documentation/)
 
 ## 👥 Contributers
 
