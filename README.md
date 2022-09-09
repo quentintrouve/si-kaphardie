@@ -11,6 +11,8 @@ This site has been created for educational purposes as part of the Bachelor's cu
 
 **KAPHARDIE** is a new concept of customizable cap with natural materials. The subject of this school work was to create a customizable clothing and to code the landing page. This project is made respecting the **BEM nomenclature** and the **Mobile First concept**. It integrates a customization form, a products page and an animated world map.
 
+Time to dev: **4 days**
+
 ## 🚀 Getting Started
 
 ### Live demo
