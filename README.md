@@ -1,31 +1,66 @@
 # KAPHARDIE
 
- ___"Création d'un vêtement personnalisable"___
- 
- ![Otaku](src/assets/Gif/kaphardi.gif)
+## 🎓Disclaimer
 
-## Membres :
-  - Bastien Paquier
-  - Quentin Trouvé
-  - Constance Pétillot
-  - Lucas Roche
-  - Nathan Stampfli
-  
-## Caractéristiques :
+This site has been created for educational purposes as part of the Bachelor's curriculum of the HETIC school. The contents presented have not been the subject of a request for right of use. **This site will and should in no case be used for commercial purposes and will not be published.**
 
-- Thème : 
-  - Création d'un casquette unique personnalisable aved des matières du mondes
-  
-- Support : 
-  - Desktop / Mobile
+## 🧢 Project Overview
+<p align="center">
+  <img src="src/assets/Gif/kaphardi.gif">
+</p>
 
-- Temps imparti : 
-  - 4 jours de conception
-  - 15 minutes de soutenance orale
-  
-- Cahier des charges :
-  - Une landing page, et une page produits
-  - Mobile First
+**KAPHARDIE** is a new concept of customizable cap with natural materials. The subject of this school work was to create a customizable clothing and to code the landing page. This project is made respecting the BEM nomenclature and the Mobile First concept. It integrates a customization form, a products page and an animated world map.
 
-## Page web 
-[kaphardie.netlify.com](https://kaphardie.netlify.app/)
+## 🚀 Getting Started
+
+### Live demo
+
+Website is deployed [here](https://kaphardie.netlify.app/)
+
+### Installing
+
+Clone the repository, and installing dependancies
+
+```
+git clone $url
+```
+
+```
+cd si-kaphardie
+```
+
+```
+npm install
+```
+
+### Development Mode
+
+```
+npm run start
+```
+
+Run the app in development mode.\
+Open [http://localhost:3000/](http://localhost:3000/) to view it in the browser.
+
+### Production Mode
+
+```
+npm run build
+```
+
+Builds the app for production to the build folder.\
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed.
+
+## 🔨 Built with
+
+`HTML` - `Javascript` 
+
+## 🎨 Styling with
+
+Sass - [documentation](https://sass-lang.com/documentation/)\
+
+## 👥 Contributers
+
+Bastien Paquier - [bastien17-dev](https://github.com/bastien17-dev)  
+Quentin Trouvé - [quentintrouve](https://github.com/quentintrouve)
